@@ -6,3 +6,6 @@ edit
 printf("sss");
 
 gogogogogogogogogogogogogogogogogogogogogogogogogogogo
+
+Hello Stickboy1
+i want to play a game
